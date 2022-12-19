@@ -49,4 +49,4 @@ Full Stack Web Developer
   <a href="https://symfony.com" target="_blank"><img src="https://skillicons.dev/icons?i=symfony&theme=light"/></a>
 </p>
 
-📦 - I also have experience with a couple more technologies, but skillicons.dev is missing those icons
+- 📦 I also have experience with a couple more technologies, but skillicons.dev is missing those icons
