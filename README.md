@@ -2,7 +2,7 @@
 
 Full Stack Web Developer
 
-💻 I have 4+ years of professionl experience as a developer
+💻 I have 4+ years of professional experience as a developer
 
 👨🏼‍🎓 Graduated as Technologist at <a href="https://www.senacrs.com.br/unidade/63">Faculdade SENAC Porto Alegre</a>
 
