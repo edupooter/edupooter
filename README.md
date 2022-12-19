@@ -3,6 +3,7 @@
 Full Stack Web Developer
 
 💻 I have 4+ years of professionl experience as a developer
+
 👨🏼‍🎓 Graduated as Technologist at <a href="https://www.senacrs.com.br/unidade/63">Faculdade SENAC Porto Alegre</a>
 
 - 🧐 I’m looking for a new job related to my skills or new technologies like Golang, Node.js and Python
